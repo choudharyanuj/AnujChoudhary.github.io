@@ -2,7 +2,7 @@ body
 {
 	background-image: url(images/comp.jpg);
     background-repeat: no-repeat;
-	background-size: 1350px 2720px;
+	background-size: 1350px 3500px;
 }
 #leftbox
 {
@@ -34,7 +34,7 @@ body
 }
 #midbox
 {
-	width: 750px;
+	width:720px;
 	height: auto;
 	margin-top:-40%;
 	margin-left: 350px;
@@ -50,31 +50,7 @@ body
 	color: aqua;
 	text-align: center;
 }
-.social:hover {
-     -webkit-transform: scale(1.1);
-     -moz-transform: scale(1.1);
-     -o-transform: scale(1.1);
- }
- .social {
-     -webkit-transform: scale(0.8); 
-     -moz-transform: scale(0.8);
-     -o-transform: scale(0.8);
-     -webkit-transition-duration: 0.5s;
-     -moz-transition-duration: 0.5s;
-     -o-transition-duration: 0.5s;
- }
-/* #social-fb:hover {
-     color: #3B5998;
- }
- #social-tw:hover {
-     color: #4099FF;
- }
- #social-git:hover {
-     color: #d34836;
- }
- #social-li:hover {
-     color: #f39c12;
- }*/
+
 .card_img
 {
 	float: left;
@@ -82,12 +58,7 @@ body
 	width: 100px;
 	border-radius: 50%;
 }
-.footer-mail
-{
-	margin-top: 2%;
-	color: white;
-	float: right;
-}
+
 .add 
 {	
 	margin-top: 2%;
@@ -95,7 +66,7 @@ body
 	float: left;
 }
 .footer
-{ 	width: 100%;
+{ 	width: 1347px;
 	margin-top: 0%;
 	height: 49%;
 	background-color: black;
